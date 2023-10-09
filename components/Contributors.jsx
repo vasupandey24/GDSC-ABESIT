@@ -52,17 +52,16 @@ function Contributors() {
       desc: "Aspiring Jim Halpert"
     },
 
-// Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: 2202901550090,
+        name: "vasudhara pandey",
+        img: "",
+        role: "contributer",
+        social1: "https://www.linkedin.com/in/vasundhara-pandey-557142265 ",
+        social2: "",
+        desc: "fresher in field of technology and trying to gain asch as possible"
+      },
   ];
 
 
